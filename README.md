@@ -6,8 +6,8 @@ This repository is my personal diary for the "100 Days of Code: The Complete Pyt
 I am a **Civil Engineer** currently transitioning into the field of **Data Science**. This journey is part of my commitment to mastering Python and its applications in data analysis and engineering.
 
 ## 📅 Progress Tracker
-- [x] **Day 1**: Working with Variables in Python to Manage Data.
-- [ ] **Day 2**: Understanding Data Types and How to Manipulate Strings.
+- [ ] **Day 1**: Working with Variables in Python to Manage Data.
+- [x] **Day 2**: Understanding Data Types and How to Manipulate Strings.
 - [ ] **Day 3**: Control Flow and Logical Operators.
 
 ## 🛠️ Tech Stack
