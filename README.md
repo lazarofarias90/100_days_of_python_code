@@ -8,7 +8,8 @@ I am a **Civil Engineer** currently transitioning into the field of **Data Scien
 ## 📅 Progress Tracker
 - [ ] **Day 1**: Working with Variables in Python to Manage Data.
 - [ ] **Day 2**: Understanding Data Types and How to Manipulate Strings.
-- [x] **Day 3**: Control Flow and Logical Operators.
+- [ ] **Day 3**: Control Flow and Logical Operators.
+- [x] **Day 4**: Randomisation and Python Lists.
 
 ## 🛠️ Tech Stack
 - **Language:** Python 3
