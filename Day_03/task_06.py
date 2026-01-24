@@ -7,25 +7,32 @@ bill = 0
 if size == "S":
     print("You chose Small pizza.")
     bill += 15
+    if pepperoni == "Y":
+        print("You wanted to add pepperoni.")
+        bill += 2
+    if extra_cheese == "Y":
+        print("You wanted to add extra cheese.")
+        bill += 1
+    print(f"Your final bill is: ${bill}")
 elif size == "M":
     print("You chose Medium pizza.")
     bill += 20
+    if pepperoni == "Y":
+        print("You wanted to add pepperoni.")
+        bill += 3
+    if extra_cheese == "Y":
+        print("You wanted to add extra cheese.")
+        bill += 1
+    print(f"Your final bill is: ${bill}")
 elif size == "L":
     print("You chose Large pizza.")
     bill += 25
-else:
-    print("You chose the wrong letter.")
-
-if pepperoni == "Y":
-    if size == "s":
-        print("You wanted to add pepperoni.")
-        bill += 2
-    else:
+    if pepperoni == "Y":
         print("You wanted to add pepperoni.")
         bill += 3
-
-if extra_cheese == "Y":
-    print("You wanted to add extra cheese.")
-    bill += 1
-
-print(f"Your final bill is: ${bill}")
+    if extra_cheese == "Y":
+        print("You wanted to add extra cheese.")
+        bill += 1
+    print(f"Your final bill is: ${bill}")
+else:
+    print("You chose the wrong letter.")
