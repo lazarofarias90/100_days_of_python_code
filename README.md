@@ -10,7 +10,8 @@ I am a **Civil Engineer** currently transitioning into the field of **Data Scien
 - [ ] **Day 2**: Understanding Data Types and How to Manipulate Strings.
 - [ ] **Day 3**: Control Flow and Logical Operators.
 - [ ] **Day 4**: Randomisation and Python Lists.
-- [x] **Day 5**: Python Loops.
+- [ ] **Day 5**: Python Loops.
+- [x] **Day 6**: Python Functions & Karel.
 
 ## 🛠️ Tech Stack
 - **Language:** Python 3
