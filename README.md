@@ -15,7 +15,8 @@ I am a **Civil Engineer** currently transitioning into the field of **Data Scien
 - [ ] **Day 7**: Hangman.
 - [ ] **Day 8**: Function Parameters & Caeser Cipher.
 - [ ] **Day 9**: Dictionaries, Nesting and the Secret Auction.
-- [x] **Day 10**: Functions with Outputs.
+- [ ] **Day 10**: Functions with Outputs.
+- [x] **Day 11**: The Blacjack Capstone Project.
 
 ## 🛠️ Tech Stack
 - **Language:** Python 3
