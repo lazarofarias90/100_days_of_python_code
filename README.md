@@ -17,7 +17,8 @@ I am a **Civil Engineer** currently transitioning into the field of **Data Scien
 - [ ] **Day 9**: Dictionaries, Nesting and the Secret Auction.
 - [ ] **Day 10**: Functions with Outputs.
 - [ ] **Day 11**: The Blacjack Capstone Project.
-- [x] **Day 12**: Scope & Number Guessing Game.
+- [ ] **Day 12**: Scope & Number Guessing Game.
+- [x] **Day 13**: Debugging: How to Find and Fix Errors in your Code.
 
 ## 🛠️ Tech Stack
 - **Language:** Python 3
